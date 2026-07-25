@@ -1,9 +1,3 @@
-import os, re, urllib.request , urllib 
-from flask import flask , jsonify , request , Request
-
-app = flask(__name__)
-req = urllib.request(f"https://wwww.youtube.com/search?" methods = {"agents",Mozilla/5.0))
-re = url
 import os, re, urllib.parse, urllib.request
 from flask import Flask, abort, jsonify, render_template, request
 
